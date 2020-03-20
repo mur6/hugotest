@@ -1,0 +1,5 @@
+baseURL = "/"
+languageCode = "ja"
+title = "tech blog"
+
+disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
